@@ -1,5 +1,4 @@
-## Aktuelles Semester 
-SS19 
+## Aktuelles Semester | SS19 
 
 [OOP Angaben](http://oop.onlinetu.tk) <br />
 [Modellbildungsausarbeitung PDF](http://mb.onlinetu.tk/latex/Modelbildung.pdf)
