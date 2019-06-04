@@ -1,4 +1,4 @@
-## Aktuelles Semster 
+## Aktuelles Semester 
 SS19 
 
 [OOP Angaben](http://oop.onlinetu.tk) <br />
