@@ -1,5 +1,3 @@
-# onlineTU.tk
-
 ## Aktuelles Semster 
 SS19 
 
