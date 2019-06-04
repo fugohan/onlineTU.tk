@@ -9,10 +9,3 @@
 [Modellbildung](https://www.acin.tuwien.ac.at/file/teaching/bachelor/modellbildung/VU_Modellbildung_2019.pdf)
 
 ## Der [onlineTU](https://drive.google.com/drive/folders/0B4WtRWLhHJBBN0JPQjNULU1rT00) Ordner
-
-[x] lol
-
-First Header | Second Header | Bullshit 
------------- | ------------- | -------- 
-Content from cell 1 | Content from cell 2 | yes
-Content in the first column | Content in the second column | no 
