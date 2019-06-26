@@ -2,5 +2,7 @@ body{
   background-color: black;
 }
 
-object[name=display]{width:100%;
-height: 93vh;}
+object[name=display]{
+  width:100%;
+  height:calc(100% - 60px);
+}
