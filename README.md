@@ -6,7 +6,7 @@
 
 ### Skripten
 
-[Modellbildung](https://www.acin.tuwien.ac.at/file/teaching/bachelor/modellbildung/VU_Modellbildung_2019.pdf) [[UE](https://www.acin.tuwien.ac.at/file/teaching/bachelor/modellbildung/UE_Modellbildung_Solutions_2019.pdf)] -  [all](https://onlinetu.tk/scripts/modellbildung.html) 
+[Modellbildung](https://www.acin.tuwien.ac.at/file/teaching/bachelor/modellbildung/VU_Modellbildung_2019.pdf) | [[UE](https://www.acin.tuwien.ac.at/file/teaching/bachelor/modellbildung/UE_Modellbildung_Solutions_2019.pdf)] | [all](https://onlinetu.tk/scripts/modellbildung.html)  <br/>
 
 ## Der [onlineTU](https://drive.google.com/drive/folders/0B4WtRWLhHJBBN0JPQjNULU1rT00) ![](https://www.filecluster.com/media/icons/162812.gif)  Ordner
 
